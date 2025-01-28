@@ -6,8 +6,7 @@ Sistem Buku Tamu Desa adalah aplikasi berbasis web yang dirancang untuk mencatat
 
 - **Formulir Input Tamu**: Tamu dapat mengisi data kunjungan seperti nama, alamat, tanggal kunjungan, tujuan, dan nomor kontak.
 - **Dashboard Admin**: Admin dapat melihat, mencari, mengedit, dan menghapus data tamu.
-- **Statistik Kunjungan**: Menampilkan jumlah tamu secara visual (grafik).
-- **Cetak Laporan**: Mendukung pembuatan laporan PDF dan Excel.
+- **Statistik Kunjungan**: Menampilkan jumlah tamu secara visual (tabel).
 - **Desain Responsif**: Tampilan yang dapat diakses dari desktop maupun perangkat mobile.
 
 ## Teknologi yang Digunakan
